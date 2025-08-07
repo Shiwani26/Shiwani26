@@ -7,10 +7,10 @@ Skilled in Power BI, Python, SQL, Excel, and problem-solving.
 
 ##  Skills & Tools
 
-- **Languages**: Python, SQL, R
-- **Data Viz**: Power BI, Tableau, Excel
-- **Databases**: MySQL, PostgreSQL
-- **Other**: Git, Jupyter, Google Sheets
+- **Languages**: Python, SQL, R, DAX, Excel
+- **Data Viz**: Power BI, Tableau, Excel, Matplotlib, Seaborn, Pivot Table
+- **Databases**: MySQL, PostgreSQL, SQL Server Management Studio (SSMS)
+- **Version Control & Tools**: Git, Jupyter Notebook, Google Sheets, VS Code
 
 ---
 
