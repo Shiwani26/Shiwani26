@@ -14,12 +14,6 @@ Skilled in Power BI, Python, SQL, Excel, and problem-solving.
 
 ---
 
-##  GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shiwani26&show_icons=true&theme=default)
-
----
-
 ##  Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiwani26&layout=compact&theme=default)
